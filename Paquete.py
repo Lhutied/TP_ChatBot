@@ -1,4 +1,4 @@
-class my_class(object):
+class Paquete(object):
     pass
 
 

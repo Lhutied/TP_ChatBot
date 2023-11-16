@@ -24,9 +24,11 @@
     <Compile Include="Agente.py" />
     <Compile Include="Bot.py" />
     <Compile Include="Cliente.py" />
+    <Compile Include="DAL.py" />
     <Compile Include="Factura.py" />
     <Compile Include="Internet.py" />
     <Compile Include="Paquete.py" />
+    <Compile Include="Producto.py" />
     <Compile Include="Telefonia.py" />
     <Compile Include="TP_ChatBot.py" />
     <Compile Include="TV_Cable.py" />
